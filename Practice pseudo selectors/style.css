@@ -1,0 +1,29 @@
+main {
+    margin:auto
+}
+
+div {
+    border: 1px solid black;
+    width: 250px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+main {
+    width: 300px;
+    display: flex;
+    flex-direction:column
+}
+
+div:hover {
+    background: red;
+    cursor: pointer;
+}
+
+.one {
+    border-top: none;
+}
+
+.two {
+    border-bottom: none;
+}
