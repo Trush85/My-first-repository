@@ -1,0 +1,41 @@
+body {
+    width: 1200px;
+}
+
+
+.top {
+    border: 1px solid #428af5;
+    width: 50%;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.one {
+    width: 50px;
+    height: 50px;
+    border: #428af5;
+    background: #428af5
+}
+
+.bottom {
+    border: 1px solid #428af5;
+    background: #f56c42;
+    width: 50%;
+    padding: 30px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.two {
+    width: 50px;
+    height: 50px;
+    border: purple;
+    background: purple
+}
