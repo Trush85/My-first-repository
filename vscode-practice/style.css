@@ -1,3 +1,17 @@
-p {
-    color:darkturquoise;
+.asteroidbig, .asteroidb329big {
+    color:blue;
+}
+
+.asteroid, .asteroidb326 {
+    border: 1px solid green;
+    width: 30%;
+}
+
+.asteroid, .asteroidb326, .asteroidb329big {
+    font-weight: bold;
+}
+
+.asteroidbig {
+    background: yellow;
+    width: 30%;
 }
