@@ -1,0 +1,102 @@
+#container {
+  width: 1500px;
+}
+
+#photobox {
+  width: 90%;
+  margin: auto
+}
+
+img {
+  width: 100%;
+}
+
+.nameup {
+  font-size: 35px;
+  font-family: 'Abril Fatface', cursive;
+  padding: 0px;
+  margin: 0px;
+  color: #222;
+}
+
+.namedown {
+  font-size: 50px;
+  font-family: 'Abril Fatface', cursive;
+  padding: 0px;
+  margin: 0px;
+  color: #222;
+}
+
+.top {
+  position: absolute;
+  top: 275px;
+  left: 385px;
+}
+
+.par1 {
+  width: 50%;
+  margin: auto;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px
+}
+
+ul {
+  list-style: square
+}
+
+figure {
+  width: 50%;
+  margin: auto;
+  font-size: 40px;
+  font-family: 'Abril Fatface', cursive;
+  background: #222;
+  color: white;
+  padding-top:10px;
+  padding-bottom: 10px;
+  text-align: center;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+.par2 {
+  width: 50%;
+  margin: auto;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px
+}
+
+.small {
+  font-size: 17px;
+}
+
+.line {
+  width: 50%;
+  margin: auto;
+  height: 5px;
+  background: #222;
+}
+
+li {
+  font-size: 15px;
+  padding-bottom: 15px;
+  line-height: 190%;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: 900   
+}
+
+h5 {
+  font-size: 18px;
+  font-weight: 900;
+  font-style: oblique
+}
+
+p {
+  line-height: 190%
+}
+
+.big {
+  font-size: 20px
+}

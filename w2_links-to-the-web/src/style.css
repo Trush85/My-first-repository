@@ -1,0 +1,20 @@
+.container {
+  width: 600px;
+  margin: auto;
+  font-family: 'Sen', sans-serif;
+}
+
+a {
+  color: green;
+}
+
+a:hover {
+  color: lime;
+  text-decoration:none
+}
+
+
+
+
+
+

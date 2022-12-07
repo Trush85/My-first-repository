@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end
+}
+.one {
+  width: 450px;
+  height: 450px;
+  background: #51d400;
+}
+
+.two {
+  width: 450px;
+  height: 450px;
+  background: #ffd62a; 
+}
+
+.three {
+  width: 450px;
+  height: 450px;
+  background: #b02afe; 
+}

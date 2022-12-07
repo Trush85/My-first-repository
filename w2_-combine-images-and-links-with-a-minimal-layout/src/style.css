@@ -1,0 +1,22 @@
+.container{
+  width: 1000px;
+  margin: auto;
+  font-family: 'Sen', sans-serif;
+}
+
+img {
+  width: 150px;
+}
+
+a {
+  color: blue;
+  display:block;
+}
+
+section {
+  display:flex;
+  justify-content: space-around;
+  width: 50%;
+}
+
+

@@ -1,0 +1,61 @@
+main {
+  width: 1000px;
+}
+
+header {
+  background: aqua;
+  height: 90px;
+  width: 60%;
+  margin-left:auto;
+  margin-right:auto
+}
+
+footer {
+  background: blue;
+  height: 90px;
+  width: 60%;
+  margin-left:auto;
+  margin-right:auto
+  
+  
+}
+ 
+div {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between
+}
+
+.orange {
+  height: 500px;
+  background: orange;
+  width: 15%
+}
+
+.red {
+  height: 500px;
+  background: red;
+  width: 50%
+}
+
+.purple {
+  height: 500px;
+  background: purple;
+  width: 15%
+  
+}
+
+button {
+  background: black;
+  width: 45px;
+  height: 45px;
+  position: fixed;
+  top: 530px;
+  right: 380px;
+  border: 0px;
+  cursor: pointer;
+}
+
+

@@ -1,0 +1,41 @@
+body {
+  font-family: 'Baloo Thambi 2', cursive;
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  width: 30%;  
+}
+
+div {
+  border: 8px solid #4285f4;
+  margin-bottom: 20px;
+}
+
+main {
+  border: 8px solid #4285f4;
+}
+
+.one {
+  background: #E67676;
+  margin: 0px;
+  padding: 50px;
+}
+
+.two {
+  background: #E67676;
+  margin: 0px;
+  padding: 50px;
+}
+
+.three {
+  background: #A9E6E6;
+  margin: 0px;
+  padding: 50px;
+}
+
+.four {
+  background: #A9E6E6;
+  margin: 0px;
+  padding: 50px;
+}
